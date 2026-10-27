@@ -25,5 +25,8 @@ int main(){
         }
     
     }
+    else{
+        cout<<"invalid score"<<endl;
+    }
 }
 
